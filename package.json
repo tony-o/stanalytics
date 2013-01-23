@@ -1,0 +1,18 @@
+{
+  "name":"stanalytics"
+  ,"version":"v0.1.0-0"
+  ,"homepage":"http://segomos.com/"
+  ,"main":"app"
+  ,"repository":{
+    "type":"git"
+    ,"url":"git@github.com:tony-o/stanalytics.git"
+  }
+  ,"dependencies":{
+    "optional":""
+    ,"mongoose":""
+    ,"request":""
+    ,"csv":""  
+    ,"optimist":""
+  }
+  ,"description":""
+}
